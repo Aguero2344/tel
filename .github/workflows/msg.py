@@ -11,7 +11,7 @@ import os
 config = configparser.ConfigParser()
 config.read("telethon.config")
 
-id_group = '-4197939437'
+id_group = '-4105793017'
 token_bot = '7155994571:AAGRGwXXoSfp3b1TOF2Axnnuwl82fUSklmY'
 msg_info = telegram.Bot(token=token_bot)
 
